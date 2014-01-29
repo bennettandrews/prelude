@@ -82,6 +82,7 @@
 
 (global-set-key [remap kill-whole-line] 'prelude-kill-whole-line)
 
+
 ;; Activate occur easily inside isearch
 (define-key isearch-mode-map (kbd "C-o")
   (lambda () (interactive)
