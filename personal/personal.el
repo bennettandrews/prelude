@@ -37,3 +37,6 @@
        '(default ((t (:slant normal :weight normal :height 130 :width normal :foundry "apple" :family "Monaco")))))
       )
   )
+
+;; Disable whitelist-mode
+(setq prelude-whitespace nil)
