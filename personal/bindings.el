@@ -18,6 +18,6 @@
 (global-set-key "\C-z" 'undo)
 (global-set-key "\M-z" 'redo)
 
-(global-set-key "\C-xf" 'swap-windows)
+(global-set-key "\C-xf" 'prelude-swap-windows)
 
 (global-set-key (kbd "C-x C-b") 'ibuffer)
