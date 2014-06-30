@@ -40,3 +40,8 @@
 
 ;; Disable whitelist-mode
 (setq prelude-whitespace nil)
+
+(setq prelude-guru nil)
+
+(setq prelude-flyspell nil)
+
